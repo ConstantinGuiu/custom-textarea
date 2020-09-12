@@ -10,7 +10,7 @@ body{
     border-radius: 1em;
 }
 
-#editxt{
+.editxt{
     width: 500px;
     margin: auto;
     display: flex;
@@ -23,14 +23,14 @@ body{
     cursor: pointer;
 }
 
-#buttons{
+.buttons-textarea{
     border: solid 1px #aaa;
     border-bottom: none;
     width: auto;
     padding-left: 20px;
 }
 
-#textArea {
+.textArea {
     border: solid 1px #aaa;
     padding: 0 20px;
     outline: 0px solid transparent;

@@ -3,7 +3,7 @@ var oDoc, sDefTxt;
 loaded();
 
 function loaded() {
-    oDoc = document.getElementById("textArea");
+    oDoc = document.querySelector("textArea");
     sDefTxt = oDoc.innerHTML;
 }
 
